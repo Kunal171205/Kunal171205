@@ -86,20 +86,10 @@ class KunalBiradar:
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+<img src="https://cdn.simpleicons.org/apachespark/E25A1C" alt="Apache Spark" height="40"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks" height="40"/>
 
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
-
-### ☁️ Cloud & Enterprise Technologies
-
-<img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" alt="AWS and Azure"/>
-
-<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda"/>
-<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="Amazon EC2"/>
-<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3"/>
-<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="Amazon CloudWatch"/>
-<img src="https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=powerplatform&logoColor=white" alt="Microsoft Power Platform"/>
 
 ### 🛠️ Developer Tools
 
