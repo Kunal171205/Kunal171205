@@ -80,7 +80,7 @@ class KunalBiradar:
 <img src="https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=013243" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas"/>
 
-</div>
+
 
 ### 📊 Data & Cloud
 <img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" alt="AWS and Azure"/>
