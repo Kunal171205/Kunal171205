@@ -84,10 +84,9 @@ class KunalBiradar:
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" height="42"/>
+ <img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" height="42" style="background-color: white; padding: 6px; border-radius: 8px;"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" height="42"/>
-&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" height="42" style="background-color: white; padding: 6px; border-radius: 8px;"/> 
 <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" height="42"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/opencv/5C3EE8" alt="OpenCV" height="42"/>
