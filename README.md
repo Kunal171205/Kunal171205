@@ -71,27 +71,8 @@ class KunalBiradar:
 
 <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
 
-### 🤖 
+### 🤖 AI & MACHINE LEARNING
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="TensorFlow and OpenCV"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6C5CE7?style=for-the-badge" alt="RAG"/>
-<img src="https://img.shields.io/badge/AI%20Agents-ReAct-8E44AD?style=for-the-badge" alt="AI Agents"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-ML-0078D4?style=for-the-badge" alt="Computer Vision"/>
-### <code>AI & MACHINE LEARNING</code>
-
-<div align="center">
-
- <img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" height="42" style="background-color: white; padding: 6px; border-radius: 8px;"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" height="42" style="background-color: white; padding: 6px; border-radius: 8px;"/> 
-<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" height="42"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/opencv/5C3EE8" alt="OpenCV" height="42"/>
-
-<br/><br/>
 
 <img src="https://img.shields.io/badge/RAG-6C5CE7?style=for-the-badge&logoColor=white" alt="RAG"/>
 &nbsp;
