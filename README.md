@@ -96,6 +96,8 @@ class KunalBiradar:
 <img src="https://img.shields.io/badge/RAG-6C5CE7?style=for-the-badge&logoColor=white" alt="RAG"/>
 &nbsp;
 <img src="https://img.shields.io/badge/AI%20Agents-8E44AD?style=for-the-badge&logoColor=white" alt="AI Agents"/>
+<img src="https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=013243" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas"/>
 
 </div>
 
