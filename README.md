@@ -2,7 +2,7 @@
 
 # Hey, I'm Kunal Biradar 👋
 
-### AI/ML Engineer • Software Developer • Cloud Enthusiast
+### AI/ML Engineer • Software Developer • Data Lover  • Cloud Enthusiast
 
 *Building intelligent systems. Engineering scalable solutions. Turning ideas into impact.*
 
@@ -13,7 +13,7 @@
 <a href="https://github.com/Kunal171205">
 <img src="https://img.shields.io/badge/GitHub-Kunal171205-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/kunal-biradar-90ab3429a/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/Kunal171205?tab=repositories">
@@ -33,8 +33,6 @@ I'm a Computer Engineering student at **Pimpri Chinchwad College of Engineering 
 - 🤖 Exploring Artificial Intelligence, Machine Learning, RAG, and AI agents.
 - ☁️ Building cloud automation and cost-optimization solutions on AWS.
 - 📊 Exploring data engineering, analytics, Apache Spark, and Databricks.
-- 🔬 Experienced in multimodal deep learning research and explainable AI.
-- 💻 Solved **400+ DSA and competitive programming problems**.
 - 🏆 Recipient of the **2nd Best Research Paper Award** at an IEEE international conference.
 - 🌱 Currently expanding my skills in Salesforce, Azure, and Microsoft Power Platform.
 
