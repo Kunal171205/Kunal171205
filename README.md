@@ -54,6 +54,38 @@ class KunalBiradar:
 ```
 
 ---
+<div align="center">
+
+<code>LANGUAGES</code>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js&theme=dark" alt="Python, C++ and JavaScript"/>
+
+<code>SOFTWARE ENGINEERING</code>
+
+<img src="https://skillicons.dev/icons?i=flask,html,css,git,github,vscode&theme=dark" alt="Flask, HTML, CSS, Git, GitHub and VS Code"/>
+
+<code>AI & MACHINE LEARNING</code>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="TensorFlow and OpenCV"/>
+<br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+
+<code>DATA & STORAGE</code>
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks"/>
+
+<code>CLOUD & INFRASTRUCTURE</code>
+
+<img src="https://skillicons.dev/icons?i=aws,azure,linux&theme=dark" alt="AWS, Azure and Linux"/>
+<br/>
+<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda"/>
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3"/>
+<img src="https://img.shields.io/badge/Power%20Platform-742774?style=flat-square&logo=powerplatform&logoColor=white" alt="Power Platform"/>
+
+</div>
 
 ## ⚡ Tech Stack & Tools
 
