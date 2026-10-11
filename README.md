@@ -16,9 +16,11 @@
 <a href="https://www.linkedin.com/in/kunal-biradar-90ab3429a/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
+<a href="https://github.com/Kunal171205?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-Projects-2EA44F?style=for-the-badge&logo=github" alt="Projects"/>
+</a>
 
 
-<img src="https://komarev.com/ghpvc/?username=Kunal171205&style=flat-square&color=36BCF7&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
