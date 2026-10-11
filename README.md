@@ -98,8 +98,6 @@ class KunalBiradar:
 
 ---
 
----
-
 ## 🏆 Achievements & Recognition
 
 <div align="center">
