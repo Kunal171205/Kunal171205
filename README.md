@@ -86,8 +86,7 @@ class KunalBiradar:
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
 <img src="https://img.shields.io/badge/Spark%20SQL-E25A1C?style=for-the-badge" alt="Spark SQL"/>
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-217346?style=for-the-badge" alt="Data Analytics"/>
-<img src="https://img.shields.io/badge/Data%20Warehousing-4479A1?style=for-the-badge" alt="Data Warehousing"/>
+<img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" alt="AWS and Azure"/>
 
 ### 🗄️ Databases
 
