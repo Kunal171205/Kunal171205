@@ -6,7 +6,7 @@
 
 *Building intelligent systems. Engineering scalable solutions. Turning ideas into impact.*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;AI%2FML+%26+Deep+Learning+Enthusiast;Cloud+Computing+%26+Data+Engineering;Building+RAG+Systems+%26+AI+Agents;400%2B+DSA+Problems+Solved" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;AI%2FML+%26+Data+Engineering+Enthusiast;Cloud+Computing+%26+Data+Engineering;Building+RAG+Systems+%26+AI+Agents;400%2B+DSA+Problems+Solved" alt="Typing SVG" />
 
 <br/>
 
@@ -16,9 +16,7 @@
 <a href="https://www.linkedin.com/in/kunal-biradar-90ab3429a/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/Kunal171205?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-Projects-2EA44F?style=for-the-badge&logo=github" alt="Projects"/>
-</a>
+
 
 <img src="https://komarev.com/ghpvc/?username=Kunal171205&style=flat-square&color=36BCF7&label=PROFILE+VIEWS" alt="Profile views"/>
 
