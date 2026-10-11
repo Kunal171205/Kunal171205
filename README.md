@@ -80,12 +80,29 @@ class KunalBiradar:
 <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6C5CE7?style=for-the-badge" alt="RAG"/>
 <img src="https://img.shields.io/badge/AI%20Agents-ReAct-8E44AD?style=for-the-badge" alt="AI Agents"/>
 <img src="https://img.shields.io/badge/Computer%20Vision-ML-0078D4?style=for-the-badge" alt="Computer Vision"/>
+### <code>AI & MACHINE LEARNING</code>
+
+<div align="center">
+
+<img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" height="42"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" height="42"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" height="42"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/opencv/5C3EE8" alt="OpenCV" height="42"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/RAG-6C5CE7?style=for-the-badge&logoColor=white" alt="RAG"/>
+&nbsp;
+<img src="https://img.shields.io/badge/AI%20Agents-8E44AD?style=for-the-badge&logoColor=white" alt="AI Agents"/>
+
+</div>
 
 ### 📊 Data & Cloud
 <img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" alt="AWS and Azure"/>
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
 <img src="https://cdn.simpleicons.org/apachespark/E25A1C" alt="Apache Spark" height="40"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks" height="40"/>
